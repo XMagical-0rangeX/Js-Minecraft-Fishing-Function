@@ -1,1 +1,2 @@
-# Js-Minecraft-Fishing-Function
+# minecraft-fishing-js
+ Minecraft Fishing Simulator Example
